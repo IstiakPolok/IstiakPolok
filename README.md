@@ -7,9 +7,7 @@
 - 📚 Currently learning **Flutter & Firebase**  
 - 🎯 Passionate about **Business Strategy & Tech Innovation**  
 - 💡 Ask me about **Business, Design, and Web Development**
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🔥 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IstiakPolok&show_icons=true&theme=radical)
 
