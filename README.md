@@ -6,7 +6,9 @@
 - 🔥 Skilled in **HTML, CSS, JavaScript, WordPress, and Business Optimization**  
 - 📚 Currently learning **Flutter & Firebase**  
 - 🎯 Passionate about **Business Strategy & Tech Innovation**  
-- 💡 Ask me about **Business, Design, and Web Development**  
+- 💡 Ask me about **Business, Design, and Web Development**
+
+![Snake animation](https://github.com/IstiakPolok/IstiakPolok/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IstiakPolok&show_icons=true&theme=radical)
