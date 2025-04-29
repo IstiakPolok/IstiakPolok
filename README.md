@@ -1,6 +1,6 @@
 # Hi, I'm Fatin Istiak Polok! 👋
 
-🎨 Graphic Designer | 📱 Flutter Developer | 🏢 Management Executive | 🖥️ Web Developer  
+📱 Flutter Developer | 🎨 Graphic Designer | 🏢 Management Executive | 🖥️ Web Developer  
 
 - 🚀 4+ years of experience in **Graphic Design & Management**  
 - 🔥 Skilled in **HTML, CSS, JavaScript, WordPress, and Business Optimization**  
